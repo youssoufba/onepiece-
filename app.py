@@ -28,7 +28,7 @@ st.markdown("""
 
     /* Style des boutons (Noir avec texte Blanc) */
     .stButton>button {
-        background-color: #000000;
+        background-color: #C1E8EB;
         color: #ffffff;
         border: 2px solid #000000;
         border-radius: 0px; /* Carré */
